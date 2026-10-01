@@ -1,1 +1,6 @@
+git clone https://github.com/vufuhga68-lab/hacker.git
+mkdir stolen/
+git add .
+git commit -m "setup"
+git push origin main
 
